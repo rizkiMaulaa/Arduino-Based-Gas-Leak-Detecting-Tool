@@ -34,13 +34,13 @@ Untuk mengurangi resiko dari kebocoran gas maka diperlukan perangkat yang dapat 
 
 1. Sensor gas membaca konsentrasi gas di udara dan potensiometer sebagai pengatur ambang batas.
 2. Jika sensor membaca konsentrasi gas di udara melebihi ambang batas yang ditentukan, maka:
-  - Buzzer akan berbunyi.
-  - LED akan menyala.
-  - Motor Servo akan menyimpang 90 derajat yang akan memutar katup gas hingga saluran gas menutup.
+   - Buzzer akan berbunyi.
+   - LED akan menyala.
+   - Motor Servo akan menyimpang 90 derajat yang akan memutar katup gas hingga saluran gas menutup.
 3. Jika sensor membaca konsentrasi gas di udara kurang dari ambang batas yang ditentukan, maka:
-  - Buzzer tetap dalam keadaan mati.
-  - LED tetap dalam keadaan padam.
-  - Motor Servo tidak akan menyimpang dan katup gas tetap terbuka untuk mengalirkan gas.
+   - Buzzer tetap dalam keadaan mati.
+   - LED tetap dalam keadaan padam.
+   - Motor Servo tidak akan menyimpang dan katup gas tetap terbuka untuk mengalirkan gas.
 
 ---
 
